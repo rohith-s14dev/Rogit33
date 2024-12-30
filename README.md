@@ -18,7 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohith-s14dev&show_icons=true&locale=en&layout=compact" alt="rogit33" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rogit33&show_icons=true&locale=en" alt="rohith-s14dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohith-s14dev&show_icons=true&locale=en" alt="rohith-s14dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-s14dev&" alt="rohith-s14dev" /></p>
 
